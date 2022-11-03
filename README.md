@@ -1,2 +1,2 @@
-# DynamicFC
-Dynamic rank-1 dictionary estimation for FC and EC
+# DynamicDict
+Dynamic rank-1 dictionary estimation for fMRI FC and EC
