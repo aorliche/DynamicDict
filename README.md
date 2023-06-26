@@ -36,10 +36,10 @@ Dynamic dictionary entry weights are slightly better at predicting age than PCA 
 
 See the <a href='https://github.com/aorliche/DynamicDict/blob/main/images/OHBM_DynamicDict_Poster.pdf'>pdf of the poster</a>.
 
-<img height="600px" src='https://github.com/aorliche/DynamicDict/blob/3cb5f6da217a4613d1a53fdddc9d9cbd9a951faf/images/Poster.png'>
+<img height="700px" src='https://github.com/aorliche/DynamicDict/blob/3cb5f6da217a4613d1a53fdddc9d9cbd9a951faf/images/Poster.png'>
 
 # Contact Information
 
-Personal website <a href='https://aorliche.github.io/'>https://aorliche.github.io/</a>
-Lab <a href='http://www2.tulane.edu/~wyp/Home.html'>Tulane MBB Lab</a>
-Contact me at <a href='mailto:aorlichenko@tulane.edu'>aorlichenko@tulane.edu</a>.
+- Personal website <a href='https://aorliche.github.io/'>https://aorliche.github.io/</a>
+- Lab <a href='http://www2.tulane.edu/~wyp/Home.html'>Tulane MBB Lab</a>
+- Contact me at <a href='mailto:aorlichenko@tulane.edu'>aorlichenko@tulane.edu</a>.
