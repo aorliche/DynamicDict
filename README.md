@@ -6,7 +6,7 @@ Dynamic rank-1 dictionary estimation for fMRI functional connectivity (FC), usin
 
 # Model 
 
-Check out <a href='https://github.com/aorliche/DynamicDict/blob/main/images/OHBM_DynamicDict_Poster.pdf'>the poster</a> or notebook 4 for estimation procedure from BOLD timeseries.
+Check out <a href='https://github.com/aorliche/DynamicDict/blob/main/images/OHBM_DynamicDict_Poster.pdf'>the poster</a> or <a href='https://github.com/aorliche/DynamicDict/blob/main/notebooks/DynamicDict4BackToAbstract.ipynb'>notebook 4</a> for estimation procedure from BOLD timeseries.
 
 # Synopsis
 
@@ -34,7 +34,7 @@ Dynamic dictionary entry weights are slightly better at predicting age than PCA 
 
 # Poster
 
-See the pdf of the poster (link above).
+See the <a href='https://github.com/aorliche/DynamicDict/blob/main/images/OHBM_DynamicDict_Poster.pdf'>pdf of the poster</a>.
 
 <img height="600px" src='https://github.com/aorliche/DynamicDict/blob/3cb5f6da217a4613d1a53fdddc9d9cbd9a951faf/images/Poster.png'>
 
