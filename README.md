@@ -41,5 +41,5 @@ See the <a href='https://github.com/aorliche/DynamicDict/blob/main/images/OHBM_D
 # Contact Information
 
 - Personal website <a href='https://aorliche.github.io/'>https://aorliche.github.io/</a>
-- Lab <a href='http://www2.tulane.edu/~wyp/Home.html'>Tulane MBB Lab</a>
+- <a href='http://www2.tulane.edu/~wyp/Home.html'>Tulane MBB Lab</a>
 - Contact me at <a href='mailto:aorlichenko@tulane.edu'>aorlichenko@tulane.edu</a>.
